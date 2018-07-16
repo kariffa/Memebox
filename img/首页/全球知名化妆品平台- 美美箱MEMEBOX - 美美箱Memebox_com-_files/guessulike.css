@@ -1,0 +1,36 @@
+.guess-u-like {
+	width: 100%; overflow: hidden; position: relative;
+}
+.guess-u-like h3 {
+	padding-left: 2.5%; margin-top: 30px; margin-bottom: 45px;
+}
+.guess-u-like .subtitle {
+	left: 12%; top: 38px; color: rgb(102, 102, 102); font-size: 14px; position: absolute;
+}
+.guess-slide {
+	width: 100%; height: 360px; position: relative;
+}
+.swiper-slide {
+	position: relative;
+}
+.swiper-slide img {
+	width: 100%; height: 242px;
+}
+.swiper-slide a {
+	width: 80%; margin-left: 10%; display: block;
+}
+.swiper-slide .prices {
+	width: 80%; height: 50px; text-align: center; bottom: 0px; color: rgb(255, 80, 115); font-size: 18px; position: absolute;
+}
+.swiper-slide .originPrice {
+	color: rgb(153, 153, 153); font-size: 14px; margin-left: 5px;
+}
+.swiper-slide .product-like-name {
+	height: 40px; text-align: center; color: rgb(45, 45, 45); overflow: hidden; font-size: 14px; margin-top: 15px; -ms-text-overflow: ellipsis; -webkit-box-orient: vertical; -webkit-line-clamp: 2;
+}
+.swiper-button-prev {
+	background: url("../../images/pre-button.png") no-repeat center; left: 0px; top: 120px;
+}
+.swiper-button-next {
+	background: url("../../images/next-button.png") no-repeat center; top: 120px; right: 0px;
+}

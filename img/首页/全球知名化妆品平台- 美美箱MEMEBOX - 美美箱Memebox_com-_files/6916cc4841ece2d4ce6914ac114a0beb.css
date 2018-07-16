@@ -1,0 +1,45 @@
+* {
+	background: none !important; text-align: left !important;
+}
+html {
+	margin: 0px !important; padding: 0px !important;
+}
+body {
+	background: rgb(255, 255, 255) !important; margin: 10px !important; padding: 0px !important; font-size: 9pt !important;
+}
+a {
+	color: rgb(41, 118, 201) !important;
+}
+th {
+	border-color: rgb(204, 204, 204) !important; color: rgb(47, 47, 47) !important;
+}
+td {
+	border-color: rgb(204, 204, 204) !important; color: rgb(47, 47, 47) !important;
+}
+.header-container {
+	display: none !important;
+}
+.nav-container {
+	display: none !important;
+}
+.footer-container {
+	display: none !important;
+}
+.pager {
+	display: none !important;
+}
+.toolbar {
+	display: none !important;
+}
+.actions {
+	display: none !important;
+}
+.buttons-set {
+	display: none !important;
+}
+.page-print .data-table .cart-tax-total {
+	background-position: 100% -54px;
+}
+.page-print .data-table .cart-tax-info {
+	display: block !important;
+}

@@ -1,0 +1,134 @@
+{
+	"id":"0001",
+	"name":"商品数据列表",
+	"content":[{
+		"id":"001",
+		"name":"“魔方气垫” 光彩气垫粉底霜",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/_/d/_dc840724-a32f-3eee-7e68-9459a54a32ce_.jpg",
+		"brand":"Pony Effect",
+		"intro":"“魔方气垫” 光彩气垫粉底霜",		
+		"newPrice":"¥298.00",
+		"oldPrice":"¥328.00"
+		
+	},{
+		"id":"002",
+		"name":"矿物质4色眼影",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/_/4/_4__5_1.jpg",
+		"brand":"Pony Effect",
+		"intro":"矿物质4色眼影",		
+		"newPrice":"¥248.00",
+		"oldPrice":"¥278.00"		
+	},{
+		"id":"003",
+		"name":"酷炫卷翘睫毛膏",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/p/o/pony_effect__1.jpg",
+		"brand":"Pony Effect",
+		"intro":"酷炫卷翘睫毛膏",		
+		"newPrice":"¥128.00",
+		"oldPrice":"¥138.00"
+	},{
+		"id":"004",
+		"name":"轻奢保湿口红",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/p/d/pdz15.jpg",
+		"brand":"Pony Effect",
+		"intro":"轻奢保湿口红",		
+		"newPrice":"¥178.00",
+		"oldPrice":"¥178.00"
+	},{
+		"id":"005",
+		"name":"自然双头染眉膏",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/f/i/file_146_1.jpg",
+		"brand":"Pony Effect",
+		"intro":"自然双头染眉膏",		
+		"newPrice":"¥108.00",
+		"oldPrice":"¥118.00"
+	},{
+		"id":"006",
+		"name":"持久保湿丝绒唇釉",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/f/i/file_120_1.jpg",
+		"brand":"Pony Effect",
+		"intro":"持久保湿丝绒唇釉",		
+		"newPrice":"¥168.00",
+		"oldPrice":"¥168.00"
+	},{
+		"id":"007",
+		"name":" 纯真染色唇彩",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/p/o/pony-effect-__1.jpg",
+		"brand":"Pony Effect",
+		"intro":"纯真染色唇彩",		
+		"newPrice":"¥113.00",
+		"oldPrice":"¥128.00"
+	},{
+		"id":"008",
+		"name":"私人定制唇彩调色盘",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/p/o/pony-effect-__1_6.jpg",
+		"brand":"Pony Effect",
+		"intro":"私人定制唇彩调色盘",		
+		"newPrice":"¥239.00",
+		"oldPrice":"¥298.00"
+	},{
+		"id":"009",
+		"name":"哑光遮瑕气垫粉底霜",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/p/d/pds83_1.jpg",
+		"brand":"Pony Effect",
+		"intro":"哑光遮瑕气垫粉底霜",		
+		"newPrice":"¥328.00",
+		"oldPrice":"¥328.00"
+	},{
+		"id":"010",
+		"name":"我爱十色眼影盘 #SP01约会之日",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/i/m/im---_-_sp01_.jpg",
+		"brand":"I'M MEME",
+		"intro":"我爱十色眼影盘 #SP01约会之日",		
+		"newPrice":"¥249.00",
+		"oldPrice":"¥249.00"
+	},{
+		"id":"011",
+		"name":"眼影盘唇膏套装 #炫彩之夜",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/_/i/_i_m_meme__1.jpg",
+		"brand":"IM",
+		"intro":"眼影盘唇膏套装 #炫彩之夜",		
+		"newPrice":"¥269.00",
+		"oldPrice":"¥269.00"
+	},{
+		"id":"012",
+		"name":"我爱水凝唇液",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/f/i/file_199_34.jpg",
+		"brand":"IM",
+		"intro":"我爱水凝唇液",		
+		"newPrice":"¥129.00",
+		"oldPrice":"¥129.00"
+	},{
+		"id":"013",
+		"name":"我爱单色眼影",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/_/9/_9.png",
+		"brand":"I'M MEME",
+		"intro":"我爱单色眼影",		
+		"newPrice":"¥99.00",
+		"oldPrice":"¥99.00"
+	},{
+		"id":"014",
+		"name":"我爱眼影棒",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/f/i/file_196_14.jpg",
+		"brand":"I'M MEME",
+		"intro":"我爱眼影棒",		
+		"newPrice":"¥89.00",
+		"oldPrice":"¥89.00"
+	},{
+		"id":"015",
+		"name":"磁铁大号眼影刷#203",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/_/2/_203.jpg",
+		"brand":"Pony Effect",
+		"intro":"磁铁大号眼影刷#203",		
+		"newPrice":"¥138.00",
+		"oldPrice":"¥138.00"
+	},{
+		"id":"016",
+		"name":"磁铁点缀眼影刷#204",
+		"img":"http://img-cn1001.memebox.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/_/2/_204.jpg",
+		"brand":"Pony Effect",
+		"intro":"磁铁点缀眼影刷#204",		
+		"newPrice":"¥118.00",
+		"oldPrice":"¥118.00"
+	}]
+}

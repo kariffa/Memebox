@@ -1,0 +1,78 @@
+.overlay_dialog {
+	opacity: 0.6; background-color: rgb(102, 102, 102); -moz-opacity: 0.6;
+}
+.overlay___invisible__ {
+	opacity: 0; background-color: rgb(102, 102, 102); -moz-opacity: 0;
+}
+.dialog_nw {
+	background: url("http://cn.memebox.com/js/prototype/windows/themes/default/top_left.gif") no-repeat 0px 0px; width: 9px; height: 23px;
+}
+.dialog_n {
+	background: url("http://cn.memebox.com/js/prototype/windows/themes/default/top_mid.gif") repeat-x 0px 0px; height: 23px;
+}
+.dialog_ne {
+	background: url("http://cn.memebox.com/js/prototype/windows/themes/default/top_right.gif") no-repeat 0px 0px; width: 9px; height: 23px;
+}
+.dialog_e {
+	background: url("http://cn.memebox.com/js/prototype/windows/themes/default/center_right.gif") repeat-y 0px 0px; width: 2px;
+}
+.dialog_w {
+	background: url("http://cn.memebox.com/js/prototype/windows/themes/default/center_left.gif") repeat-y 0px 0px; width: 2px;
+}
+.dialog_sw {
+	background: url("http://cn.memebox.com/js/prototype/windows/themes/default/bottom_left.gif") no-repeat 0px 0px; width: 9px; height: 19px;
+}
+.dialog_s {
+	background: url("http://cn.memebox.com/js/prototype/windows/themes/default/bottom_mid.gif") repeat-x 0px 0px; height: 19px;
+}
+.dialog_se {
+	background: url("http://cn.memebox.com/js/prototype/windows/themes/default/bottom_right.gif") no-repeat 0px 0px; width: 9px; height: 19px;
+}
+.dialog_sizer {
+	background: url("http://cn.memebox.com/js/prototype/windows/themes/default/sizer.gif") no-repeat 0px 0px; width: 9px; height: 19px; cursor: se-resize;
+}
+.dialog_close {
+	background: url("http://cn.memebox.com/js/prototype/windows/themes/default/close.gif") no-repeat 0px 0px; left: 8px; top: 5px; width: 14px; height: 14px; position: absolute; z-index: 2000; cursor: pointer;
+}
+.dialog_minimize {
+	background: url("http://cn.memebox.com/js/prototype/windows/themes/default/minimize.gif") no-repeat 0px 0px; left: 28px; top: 5px; width: 14px; height: 15px; position: absolute; z-index: 2000; cursor: pointer;
+}
+.dialog_maximize {
+	background: url("http://cn.memebox.com/js/prototype/windows/themes/default/maximize.gif") no-repeat 0px 0px; left: 49px; top: 5px; width: 14px; height: 15px; position: absolute; z-index: 2000; cursor: pointer;
+}
+.dialog_title {
+	width: 100%; height: 14px; text-align: center; color: rgb(0, 0, 0); font-family: Tahoma, Arial, sans-serif; font-size: 12px; float: left;
+}
+.dialog_content {
+	color: rgb(221, 221, 221); overflow: auto; font-family: Tahoma, Arial, sans-serif; font-size: 10px; background-color: rgb(17, 34, 51);
+}
+.top_draggable {
+	cursor: move;
+}
+.bottom_draggable {
+	cursor: move;
+}
+.status_bar {
+	font-size: 12px;
+}
+.status_bar input {
+	font-size: 12px;
+}
+.wired_frame {
+	border: 1px dashed rgb(0, 0, 0); border-image: none; display: block; position: absolute;
+}
+.dialog {
+	display: block; position: absolute;
+}
+.dialog table.table_window {
+	margin: 0px; padding: 0px; width: 100%; border-collapse: collapse; border-spacing: 0;
+}
+.dialog table.table_window td {
+	padding: 0px;
+}
+.dialog table.table_window th {
+	padding: 0px;
+}
+.dialog .title_window {
+	-moz-user-select: none;
+}
